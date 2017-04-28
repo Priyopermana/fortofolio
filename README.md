@@ -34,6 +34,6 @@
 
 <br>
 <footer>
-<marquee> <font face = "Calibri" Color = "Brown" Font Size = "small"> Presented by om-bali.blogspot.com </marquee>
+<marquee> <font face = "Calibri" Color = "Brown" Font Size = "small"> Presented by me </marquee>
  </footer>
 </html>
