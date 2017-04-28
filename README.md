@@ -30,8 +30,6 @@
 <center>
 <blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 
 
-
-
 <br>
 <footer>
 <marquee> <font face = "Calibri" Color = "Brown" Font Size = "small"> Presented by me </marquee>
