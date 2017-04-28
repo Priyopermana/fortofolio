@@ -11,9 +11,8 @@
 <br>
 <font face="Bradley Hand ITC" color="Black" fontsize="4">"Biodata Diri"</font>
 <br>
-<img><img src = "logo.png" width = "150 px" height = "150" > </img>
-</center>
-</h1>
+<img><img src = "logo.png" width = "150 px" height = "150" > 
+
 
 <h2>
 <center>
@@ -25,9 +24,9 @@
 <center>
 <blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > Created by :
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > I KOMANG BUDI GUNAWAN 
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA 
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 120010012 
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 
 
 
 
