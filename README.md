@@ -11,7 +11,7 @@
 <br>
 <font face="Bradley Hand ITC" color="Black" fontsize="4">"Biodata Diri"</font>
 <br>
-<img><img src = "priyo.jpeg" width = "150 px" height = "150" > 
+<img><img src = "logo.png" width = "150 px" height = "150" > </img>
 </center>
 </h1>
 
@@ -20,18 +20,15 @@
 <font face = "Comic Sans MS" Color = "Grey" size = "big" > <a href ="biodata.html"> |Biodata Diri| </a> 
 <br>
 <br>
-</
 
-
-
+<h3>
+<center>
 <blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > Created by :
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA 
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > I KOMANG BUDI GUNAWAN 
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 120010012 
 
-<br>
-<footer>
-<marquee> <font face = "Calibri" Color = "Brown" Font Size = "small"> Presented by me </marquee>
- </footer>
-</html>
+
+
+
