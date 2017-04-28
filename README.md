@@ -17,23 +17,21 @@
 
 <h2>
 <center>
-<font face = "Comic Sans MS" Color = "Grey" size = "big" > <a href ="biodata.html"> |Biodata Diri| </a> </
+<font face = "Comic Sans MS" Color = "Grey" size = "big" > <a href ="biodata.html"> |Biodata Diri| </a> 
 <br>
 <br>
 </
 
 
 
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > Created by :</
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > Created by :
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA </
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA 
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 </
-</center>
-</head>
-</h3>
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 
 
-<br>
+
+
 <br>
 <footer>
 <marquee> <font face = "Calibri" Color = "Brown" Font Size = "small"> Presented by om-bali.blogspot.com </marquee>
