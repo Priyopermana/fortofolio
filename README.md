@@ -13,12 +13,12 @@
 <br>
 <img><img src = "logo.png" width = "150 px" height = "150" > 
 
-
 <h2>
 <center>
 <font face = "Comic Sans MS" Color = "Grey" size = "big" > <a href ="biodata.html"> |Biodata Diri| </a> 
 <br>
 <br>
+
 
 <h3>
 <center>
@@ -26,8 +26,12 @@
 <center>
 <blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA 
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027
 
 
+<br>
+<br>
+<footer>
+<marquee> <font face = "Calibri" Color = "Brown" Font Size = "small"> Presented by ME
 
 
