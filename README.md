@@ -11,24 +11,24 @@
 <br>
 <font face="Bradley Hand ITC" color="Black" fontsize="4">"Biodata Diri"</font>
 <br>
-<img><img src = "logo.png" width = "150 px" height = "150" > </img>
+<img><img src = "priyo.jpeg" width = "150 px" height = "150" > 
 </center>
 </h1>
 
 <h2>
 <center>
-<font face = "Comic Sans MS" Color = "Grey" size = "big" > <a href ="biodata.html"> |Biodata Diri| </a> </h2>
+<font face = "Comic Sans MS" Color = "Grey" size = "big" > <a href ="biodata.html"> |Biodata Diri| </a> </
 <br>
 <br>
-</h2>
+</
 
-<h3>
+
+
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > Created by :</
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > Created by :</blink> </h3>
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA </
 <center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > MUHAMMAD PRIYA PERMANA </blink> </h3><br>
-<center>
-<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 </blink> </h3><br>
+<blink> <font face = "Comic Sans MS" Color = "Red" Font Size = "small" > 16702251027 </
 </center>
 </head>
 </h3>
